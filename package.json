@@ -1,0 +1,28 @@
+{
+  "name": "a2way-node.js-exceptions",
+  "version": "0.0.0",
+  "description": "Exceptions for Node.js. Catch'em with \"atry\". Check'em with \"instanceof\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a2way-com/Node.js-Exceptions.git"
+  },
+  "keywords": [
+    "A2Way",
+    "Node",
+    "Node.js",
+    "exceptions",
+    "atry"
+  ],
+  "author": "Supun Budhajeewa <budhajeewa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2way-com/Node.js-Exceptions/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.9.1"
+  }
+}
