@@ -21,5 +21,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/a2way-com/Node.js-Exceptions/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.9.1"
   }
 }
