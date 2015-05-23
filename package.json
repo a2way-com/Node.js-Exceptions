@@ -1,6 +1,6 @@
 {
   "name": "a2way-node.js-exceptions",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Exceptions for Node.js. Catch'em with \"atry\". Check'em with \"instanceof\".",
   "main": "index.js",
   "scripts": {
