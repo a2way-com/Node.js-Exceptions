@@ -1,7 +1,7 @@
 {
   "name": "a2way-node.js-exceptions",
-  "version": "0.0.0",
-  "description": "Exceptions for Node.js. Catch'em with \"atry\". Check'em with \"instanceof\"",
+  "version": "0.1.0",
+  "description": "Exceptions for Node.js. Catch'em with \"atry\". Check'em with \"instanceof\".",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
