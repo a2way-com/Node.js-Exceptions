@@ -1,7 +1,7 @@
-#A2Way Node.js Exceptions
+# A2Way Node.js Exceptions
 Exceptions for Node.js. Catch'em with "atry". Check'em with "instanceof".
 
-##Example
+## Example
 ```
 var atry = require('atry');
 var Exceptions = require('a2way-node.js-exceptions');
@@ -24,13 +24,13 @@ atry(function(){
 
 However, there are other exceptions available for your consumption. See below for a list of them.
 
-##Installating
+## Installating
 **Note**: `a2way-node.js-exceptions` is designed to work with `atry`. Make sure you have it installed. Then install this package:
 
 ```
 npm install a2way-node.js-exceptions --save
 ```
 
-##Available Exceptions
+## Available Exceptions
  - Generic
  - FileNotFound
