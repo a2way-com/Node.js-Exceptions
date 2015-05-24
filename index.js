@@ -1,4 +1,5 @@
 module.exports = {
 	Generic: require('./Generic'),
-	FileNotFound: require('./FileNotFound')
+	FileNotFound: require('./FileNotFound'),
+	AuthFail: require('./AuthFail')
 };
