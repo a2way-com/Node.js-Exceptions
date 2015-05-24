@@ -33,4 +33,5 @@ npm install a2way-node.js-exceptions --save
 
 ## Available Exceptions
  - Generic
+ - AuthFail
  - FileNotFound
