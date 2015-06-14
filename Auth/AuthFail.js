@@ -1,6 +1,6 @@
 var _ = require('lodash');
 
-var Generic = require('./Generic');
+var Generic = require('../Generic');
 
 var AuthFail = function () {
 	var parent = new Generic('AuthFail');
