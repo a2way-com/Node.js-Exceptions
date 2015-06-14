@@ -1,5 +1,11 @@
 module.exports = {
 	Generic: require('./Generic'),
-	FileNotFound: require('./FileNotFound'),
-	AuthFail: require('./AuthFail')
+	FileSystem: {
+		FileNotFound: require('./FileSystem/FileNotFound'),
+		MkdirFail: require('./FileSystem/MkdirFail')
+	},
+	Auth: {
+		AuthFail: require('./Auth/AuthFail')
+	}
+
 };
